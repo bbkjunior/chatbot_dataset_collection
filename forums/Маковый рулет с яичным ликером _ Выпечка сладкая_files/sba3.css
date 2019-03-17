@@ -1,0 +1,173 @@
+body{margin:0;padding:0;font-family:Arial,Sans-Serif;text-align:center;font-size:12px}
+a, a:visited, a:active, a:link{text-decoration:none}
+font,th,td,p{font-family:Verdana,Arial,Helvetica,sans-serif}
+a:link,a:active,a:visited{color:#069}
+a:hover,a:focus{text-decoration:underline;color:#DD6900;outline:none}
+hr{height:0;border:solid #D1D7DC 0;border-top-width:1px}
+.bodyline{background:#fff;border:1px #98AAB1 solid}
+.forumline{background:#fff}
+td.row1{background-color:#EFEFEF}
+td.row2{background-color:#DEE3E7}
+td.row3{background-color:#D1D7DC}
+.ferie td.rowpic{background-color:#fff;background-image:url(images/cellpic2.jpg);background-repeat:repeat-y}
+.ferie th{color:#FFA34F;font-size:11px;font-weight:bold;background-color:#069;height:25px;background-image:url(images/cellpic3.gif)}
+.ferie td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom{background-image:url(images/cellpic1.gif);background-color:#D1D7DC;border:#fff;border-style:solid;height:28px}
+.ferie td.cat,td.catHead,td.catBottom{height:29px;border-width:0}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR{font-weight:bold;border:#fff;border-style:solid;height:28px}
+td.row3Right,td.spaceRow{background-color:#D1D7DC;border:#fff;border-style:solid}
+th.thHead,td.catHead{font-size:12px;border-width:1px 1px 0}
+th.thSides,td.catSides,td.spaceRow{border-width:0 1px}
+th.thRight,td.catRight,td.row3Right{border-width:0 1px 0 0}
+th.thLeft,td.catLeft{border-width:0 0 0 1px}
+th.thBottom,td.catBottom{border-width:0 1px 1px}
+th.thTop{border-width:1px 0 0}
+th.thCornerL{border-width:1px 0 0 1px}
+th.thCornerR{border-width:1px 1px 0 0}
+.maintitle,h1,h2{font-weight:bold;font-size:22px;font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;text-decoration:none;line-height:120%;color:#000}
+.gen{font-size:12px}
+.genmed{font-size:11px}
+.gensmall{font-size:10px}
+.gen,.genmed,.gensmall{color:#000;line-height:normal}
+a.gen,a.genmed,a.gensmall{color:#069;text-decoration:none}
+a.gen:hover,a.genmed:hover,a.gensmall:hover{color:#DD6900;text-decoration:underline}
+.mainmenu{font-size:11px;color:#000}
+a.mainmenu{text-decoration:none;color:#069}
+a.mainmenu:hover{text-decoration:underline;color:#DD6900}
+.cattitle{font-weight:bold;font-size:12px;letter-spacing:1px;color:#069}
+a.cattitle{text-decoration:none;color:#069}
+a.cattitle:hover{text-decoration:underline}
+.forumlink{color:#069}
+a.forumlink{text-decoration:none;color:#069}
+a.forumlink:hover,a.forumlink:focus{text-decoration:none;color:#DD6900;outline:none}
+.nav{font-weight:bold;font-size:11px;color:#000}
+a.nav{text-decoration:none;color:#069}
+a.nav:hover{text-decoration:underline}
+.topictitle{font-weight:bold;font-size:11px;color:#000}
+a.topictitle:link{text-decoration:none;color:#069}
+a.topictitle:visited{text-decoration:none;color:#5493B4}
+a.topictitle:hover,a.topictitle:focus{text-decoration:none;color:#DD6900}
+.name{font-size:10px;color:#333}
+.name a{font-size:11px}
+.postdetails{font-size:10px;color:#000}
+a.postlink:link{text-decoration:none;color:#069}
+a.postlink:visited{text-decoration:none;color:#5493B4}
+a.postlink:hover{text-decoration:underline;color:#DD6900}
+.code{font-family:Courier,'Courier New',sans-serif;font-size:11px;color:#060;background-color:#FAFAFA;border:#D1D7DC;border-style:solid;border-left-width:1px;border-top-width:1px;border-right-width:1px;border-bottom-width:1px}
+.quote{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px;color:#444;line-height:125%;background-color:#FAFAFA;border:#D1D7DC;border-style:solid;border-left-width:1px;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;line-height:normal}
+div.copyright{text-align:center}
+.copyright{font-size:10px;font-family:Verdana,Arial,Helvetica,sans-serif;color:#444;letter-spacing:-1px}
+a.copyright{color:#444;text-decoration:none}
+a.copyright:hover{color:#000;text-decoration:underline}
+input,textarea, select{color:#000;font:normal 11px Verdana,Arial,Helvetica,sans-serif;border-color:#000}
+input.post, textarea.post, select{background-color:#fff}
+input{text-indent:2px}
+input.button{background-color:#EFEFEF;color:#000;font-size:11px;font-family:Verdana,Arial,Helvetica,sans-serif}
+input.mainoption{background-color:#FAFAFA;font-weight:bold}
+input.liteoption{background-color:#FAFAFA;font-weight:normal}
+.helpline{background-color:#DEE3E7;border-style:none}
+font,th,td,p{font-family:Arial,Helvetica,sans-serif}
+.ferie .fr-l{background:url(images/folder_locked_big.gif) transparent no-repeat center left}
+.ferie .fr-n{background:url(images/folder_new_big.gif) transparent no-repeat center left}
+.ferie .fr{background:url(images/folder_big.gif) transparent no-repeat center left}
+body.spring{background:url(images/spring/bg-b3.gif) #fff fixed repeat center top}
+.spring th{color:#315431;font-size:11px;font-weight:bold;height:30px;padding:0;border:none;margin:0;text-align:center;background:url(images/spring/cellpic3.png) #E2E9E1 repeat-x top left}
+.spring td.cat, .spring td.catHead, .spring td.catSides, .spring td.catLeft, .spring td.catRight, .spring td.catBottom{background:#e4e9da;border:none;height:28px;color:#000}
+.spring td.rowpic{background:#e4e9da}
+.spring .fr-l{padding:0 0 10px 50px;background:url(images/spring/fold_locked_big.gif) #efefef no-repeat center left}
+.spring .fr-n{padding:0 0 10px 50px;background:url(images/spring/fold_new_big.gif) #efefef no-repeat center left}
+.spring .fr{padding:0 0 10px 50px;background:url(images/spring/fold_big.gif) #efefef no-repeat center left}
+body.xmas{color:#000;background:url(images/xmas-bg.png) #fff fixed left top}
+.xmas .fr-l{padding:0 0 10px 50px;background:url(images/xmas/folder_locked_big.gif) transparent no-repeat center left}
+.xmas .fr-n{padding:0 0 10px 50px;background:url(images/xmas/folder_new_big.gif) transparent no-repeat center left}
+.xmas .fr{padding:0 0 10px 50px;background:url(images/xmas/folder_big.gif) transparent no-repeat center left}
+.xmas th{color:#FFA34F;font-size:11px;font-weight:bold;height:36px;padding:0;border:none;margin:0;text-align:center;background:#DFD378 url(images/xmas/cellpic3.gif) bottom left}
+.catLeft{padding:0 10px;margin:0}
+.catHead{padding:0 10px;margin:0}
+.shortinfo{width:155px}
+form{margin:0;padding:0}
+#page{background:#F0E5B9;color:#251f0f;text-align:left;margin:2px auto;padding:0;width:760px;border:1px solid #cdc}
+#header{color:#574319;background:#F0E5B9 url(images/head1108.png) no-repeat top left;padding:5px 0;width:100%}
+#content{font-size:12px;padding:0}
+.description{text-decoration:none;border:none;color:red;background:#F0E5B9}
+h2{text-decoration:none;font-size:12px;font-family:Verdana,Arial,Helvetica,Sans-Serif;font-weight:bold;color:#333;background:#F0E5B9}
+h3{font-size:12px;font-family:Verdana,Arial,Helvetica,Sans-Serif;font-weight:bold;color:#333;background:#F0E5B9}
+div .search{width:100%;display:block;text-align:right}
+.search{font-family:Tahoma, Arial,Geneva, sans-serif;font-size:8pt;text-align:right}
+div.tipmenu{padding:0;clear:both}
+.counters img, .counters a{border:0;padding:0;margin:0}
+.menu1{line-height:normal;padding:0 0 0 230px;overflow:auto}
+.menu1 li{float:left;margin:0;padding:0}
+.menu1 ul{margin:0;padding:0;list-style:none}
+.menu1 a, .menu1 a:link, .menu1 a:visited, .menu1 a:hover{display:block;margin:0;padding:0;padding-left:10px;padding-right:10px;padding-top:10px;padding-bottom:10px;letter-spacing:0;font:bold 10px Verdana,Helvetica,sans-serif;vertical-align:middle;text-align:center;color:#6d5b1f;background:#F0E5B9;text-decoration:none}
+.menu1 a:hover{color:red;background:#F0E5B9;text-decoration:underline}
+hr.hr3{width:120px;text-align:left;margin:0 auto 0 0;border:none 0;border-top:1px solid #000;height:1px}
+.med{text-align:center;vertical-align:middle;white-space:nowrap;background:#DEE3E7;font-size:10px;color:#333}
+.med1{text-align:center;vertical-align:middle;white-space:nowrap;background:#DEE3E7;font-size:10px;background:#EFEFEF}
+.med1 img{width:46px;height:25px}
+.postbody{font-size:12px;padding:5px 10px;width:550px;overflow:hidden;line-height:2em}
+.postbody img{max-width:400px}
+.taleft{float:left;width:60%;text-align:left}
+.taright{font:bold 10px Arial,sans-serif;float:left;width:40%;text-align:right}
+.cl{clear:both}
+.aright{text-align:right}
+.icmpnew{padding:0 0 0 20px;background:url(images/icon_minipost_new.gif) transparent no-repeat top left;color:#000;font:bold 10px Arial,sans-serif}
+.icmp{padding:0 0 0 20px;background:url(images/icon_minipost.gif) transparent no-repeat top left;color:#000;font:bold 10px Arial,sans-serif}
+input,textarea, select{color:#000;font:normal 11px Verdana,Arial,Helvetica,sans-serif;border:1px solid #bfd2db}
+input[type="radio"]{border:none}
+.navstr{padding:5px 0 7px;font-weight:bold}
+.navstr a{padding:5px 0 7px 7px;font-weight:bold}
+.pdm{text-align:left;vertical-align:top}
+.pdt{width:150px;font:10px Arial,Helvetica,sans-serif;padding:5px;text-align:left;vertical-align:top}
+.pdtnm{font:bold 12px Arial,Helvetica,sans-serif}
+.pdtav{text-align:center}
+.pdtav div{text-align:center}
+.pdtpr{width:72px;height:18px;display:block;background-image:url(images/lang_russian/icon_profile.gif)}
+.pdtpr b{display:none}
+.pdtrc{width:72px;height:18px;display:block;background-image:url(images/lang_russian/icon_recipes.gif)}
+.pdtrc b{display:none}
+.glance-a{vertical-align:top;padding:0 5px 0 0;width:50%}
+.glance-r{vertical-align:top;padding:0 0 0 5px;width:50%}
+.glance-bul{vertical-align:top;text-align:left}
+.glance-title{vertical-align:top;text-align:right}
+.glance-ai{vertical-align:top;text-align:left}
+.glance-ai ul{padding:0;margin:0 0 0 25px;list-style-image:url(images/bul.gif)}
+.glance-ai a, .glance-ai a:visited{color:#ce360d;font:normal 12px Arial,Verdana,Helvetica,sans-serif}
+.glance-ai a.inbold, .glance-ai a.inbold:visited{font:bold 12px Arial,Verdana,Helvetica,sans-serif}
+.glance-ai li{font:normal 10px Arial,Helvetica,sans-serif;padding:0 0 2px}
+.gose{float:right;width:250px;padding:0;margin:2px 0 0;height:32px;overflow:hidden;}
+.gose form{padding:0;margin:0}
+.gose p{margin:0;padding:0}
+.gose-in1{border:1px solid #F7D492;background:#f5f5f3;font:normal 12px Arial,sans-serif;color:#6D5B1F;padding:2px;vertical-align:top;width:125px}
+.gose-in2{border:1px solid #F7D492;background:#F5EFD1;font:normal 12px Arial,sans-serif;color:#6D5B1F;padding:2px;vertical-align:top}
+.menu1set{width:500px;white-space:nowrap}
+.tipmenuset{float:left;width:470px}
+.superglance{height:80px;text-align:right;padding:20px 10px 0 210px}
+.superglance img{border-left:0;border-right:0;border-bottom:2px solid #fff;border-top:2px solid #fff}
+.loginf{float:right;clear:both}
+.menu1 ul li.inbold a.inbold{color:red;background:#F0E5B9}
+h1, h1 a, h1 a:visited, h1 a:hover, h1 a:link{font:bold 25px Arial,Verdana,Helvetica,sans-serif;font-variant:small-caps;text-align:center;padding:0;margin:10px auto;text-decoration:none;color:red;background:#F0E5B9;letter-spacing:3px}
+.forumline .med{padding:0 10px}
+.forumlink{font:bold 12px Verdana,Arial,sans-serif}
+a.topictitle{font:bold 12px Verdana,Arial,sans-serif}
+.sitepos{padding:2px 0 4px 10px}
+#homepagelist th{text-align:center;padding:2px 5px}
+#homepagelist td.row1{padding:0}
+#homepagelist td.row1 a.forumlink{padding:3px 0 0 55px;text-decoration:none;width:380px;display:block}
+#homepagelist td.row1 a.forumlink .genmed{display:block;width:400px;text-decoration:none;padding:0 0 0 15px;font:normal 9px Verdana,Arial,Helvetica,sans-serif;color:#333}
+#homepagelist td.row1 .gensmall{width:350px;padding:0 0 0 70px;display:block}
+#homepagelist td.row1 .gensmall span{white-space:nowrap}
+#homepagelist td.med{padding:4px 5px}
+#homepagelist img{border:none}
+#forumlist .topicline{padding:5px;text-align:left;vertical-align:top}
+#forumlist .topicimg{width:20px;height:75px;text-align:center;vertical-align:middle}
+.thAuthor{border:1px solid red;width:150px}
+.helptext{padding:0 10px}
+.pdtav img{padding:2px;border:1px solid #99a;background:#fff;color:#000}
+.smileset a{display:block;width:100%}
+.smileset img{padding:4px 5px 6px 3px}
+a.smilenav{padding:4px;font-weight:bold;margin:4px 0}
+a.lp{background:#DEE3E7 url(images/icon_latest_reply.gif) no-repeat center right;padding:2px 21px 2px 0;color:#333;text-decoration:none;outline:none;text-align:left;overflow:hidden}
+a.lpn{background:#DEE3E7 url(images/icon_newest_reply.gif) no-repeat center right;padding:2px 21px 2px 0;color:#333;text-decoration:none;outline:none;text-align:right}
+#newlist a{display:block;padding:2px;text-decoration:none}
+.navstr>a{margin-right:-3px;padding:8px 5px 8px 8px;position:relative}
+.quote img,.quote br+br{display:none}

@@ -1,0 +1,13 @@
+body{margin:0;padding:0;background:#fff;color:#300;font-family:Arial,Verdana,Tahoma,sans-serif;font-size:10pt}
+td.row1,td.row2{border-top:1px solid #ccc;color:#000;background:#fff}
+.forstep img{border:none;float:right;margin:0;padding-left:10px;width:100px;text-align:center}
+.pagecontent{background:#fff;color:#000}
+.pdt{text-align:right;vertical-align:top}
+.pdtav img,.postdetails img{max-width:50px}
+.pdtli,#sidebar,#header,#footer,.counters,#moreinfo,.post,.shortdesc,.donotprint{display:none}
+.pdtnm,.name{font-size:9px}
+.postbody{color:#000;background:#fff;font-size:10px}
+.postbody img{max-width:200px;height:auto}
+.postdetails,.pdt{font-size:8px}
+.shortinfo{width:15px}
+#page,#content,h1,h1 a{margin:0;padding:0;background:#fff;color:#000;text-decoration:none}
